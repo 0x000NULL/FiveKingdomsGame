@@ -13,6 +13,2886 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 0001-01-01T00:00:00.000+00:00
-  initializedAtString: 0001-01-01T00:00:00.000+00:00
-  entries: []
+  lastUpdatedAtString: 2020-04-13T13:42:11.434-07:00
+  initializedAtString: 2020-04-13T13:42:11.434-07:00
+  entries:
+  - path: fmodstudio10000logo.zip
+    fullPath: E:\FiveKingdomsGame\fmodstudio10000logo.zip
+    projectPath: ..\..\fmodstudio10000logo.zip
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\FMOD\Resources\FMODStudioSettings.asset
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\FMOD\Resources\FMODStudioSettings.asset
+    projectPath: Assets\Plugins\FMOD\Resources\FMODStudioSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorApp.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorApp.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorApp.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorApp.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorApp.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorApp.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorMenu.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorMenu.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorMenu.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorMenu.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorMenu.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorMenu.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorStrings.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorStrings.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorStrings.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorStrings.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorStrings.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\HEU_EditorStrings.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_CurveUI.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_CurveUI.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_CurveUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_CurveUI.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_CurveUI.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_CurveUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_DragHandleMulti.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_DragHandleMulti.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_DragHandleMulti.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_DragHandleMulti.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_DragHandleMulti.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_DragHandleMulti.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_EditorUI.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_EditorUI.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_EditorUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_EditorUI.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_EditorUI.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_EditorUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_GeoSyncUI.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_GeoSyncUI.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_GeoSyncUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_GeoSyncUI.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_GeoSyncUI.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_GeoSyncUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HandlesUI.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HandlesUI.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HandlesUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HandlesUI.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HandlesUI.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HandlesUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetDebugUI.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetDebugUI.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetDebugUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetDebugUI.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetDebugUI.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetDebugUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetUI.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetUI.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetUI.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetUI.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_HoudiniAssetUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_InputNodeUI.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_InputNodeUI.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_InputNodeUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_InputNodeUI.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_InputNodeUI.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_InputNodeUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ParameterUI.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ParameterUI.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ParameterUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ParameterUI.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ParameterUI.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ParameterUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_PDGAssetLinkUI.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_PDGAssetLinkUI.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_PDGAssetLinkUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_PDGAssetLinkUI.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_PDGAssetLinkUI.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_PDGAssetLinkUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_SettingsWindow.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_SettingsWindow.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_SettingsWindow.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_SettingsWindow.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_SettingsWindow.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_SettingsWindow.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ShelfToolsWindow.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ShelfToolsWindow.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ShelfToolsWindow.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ShelfToolsWindow.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ShelfToolsWindow.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ShelfToolsWindow.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ToolsUI.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ToolsUI.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ToolsUI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ToolsUI.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ToolsUI.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Editor\UI\HEU_ToolsUI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Examples.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Examples.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Examples.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Examples\HEU_Example_Unity_Script.hda
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Examples\HEU_Example_Unity_Script.hda
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Examples\HEU_Example_Unity_Script.hda
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Examples\HEU_Example_Unity_Script.hda.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Examples\HEU_Example_Unity_Script.hda.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Examples\HEU_Example_Unity_Script.hda.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\HDAs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\HDAs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\HDAs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\HDAs\EverGreen.otl
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\HDAs\EverGreen.otl
+    projectPath: Assets\Plugins\HoudiniEngineUnity\HDAs\EverGreen.otl
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\HDAs\EverGreen.otl.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\HDAs\EverGreen.otl.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\HDAs\EverGreen.otl.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakeandreplaceIcon.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakeandreplaceIcon.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakeandreplaceIcon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakeandreplaceIcon.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakeandreplaceIcon.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakeandreplaceIcon.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakegameobjectIcon.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakegameobjectIcon.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakegameobjectIcon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakegameobjectIcon.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakegameobjectIcon.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakegameobjectIcon.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakeprefabIcon.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakeprefabIcon.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakeprefabIcon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakeprefabIcon.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakeprefabIcon.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_bakeprefabIcon.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_duplicateassetIcon.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_duplicateassetIcon.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_duplicateassetIcon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_duplicateassetIcon.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_duplicateassetIcon.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_duplicateassetIcon.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_hengine.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_hengine.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_hengine.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_hengine.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_hengine.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_hengine.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_recookhdaIcon.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_recookhdaIcon.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_recookhdaIcon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_recookhdaIcon.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_recookhdaIcon.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_recookhdaIcon.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_reloadhdaIcon.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_reloadhdaIcon.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_reloadhdaIcon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_reloadhdaIcon.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_reloadhdaIcon.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_reloadhdaIcon.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_removeheIcon.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_removeheIcon.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_removeheIcon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_removeheIcon.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_removeheIcon.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_removeheIcon.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_resetparametersIcon.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_resetparametersIcon.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_resetparametersIcon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_resetparametersIcon.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_resetparametersIcon.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_resetparametersIcon.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_skin.guiskin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_skin.guiskin
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_skin.guiskin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_skin.guiskin.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_skin.guiskin.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_skin.guiskin.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_skin_d.guiskin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_skin_d.guiskin
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_skin_d.guiskin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_skin_d.guiskin.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_skin_d.guiskin.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_skin_d.guiskin.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_section_box.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_section_box.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_section_box.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_section_box.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_section_box.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_section_box.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_section_box_d.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_section_box_d.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_section_box_d.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_section_box_d.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_section_box_d.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_section_box_d.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_d.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_d.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_d.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_d.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_d.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_d.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_flat.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_flat.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_flat.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_flat.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_flat.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_flat.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_flat_d.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_flat_d.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_flat_d.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_flat_d.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_flat_d.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\heu_ui_window_flat_d.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\Textures.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\Textures.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\Textures\heu_terrain_default_splat.png
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\Textures\heu_terrain_default_splat.png
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\Textures\heu_terrain_default_splat.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\Textures\heu_terrain_default_splat.png.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Resources\Textures\heu_terrain_default_splat.png.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Resources\Textures\heu_terrain_default_splat.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scenes.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scenes.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scenes\ParamModifierExample.unity
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scenes\ParamModifierExample.unity
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scenes\ParamModifierExample.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scenes\ParamModifierExample.unity.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scenes\ParamModifierExample.unity.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scenes\ParamModifierExample.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetEvents.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetEvents.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetEvents.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetEvents.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetEvents.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetEvents.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetPreset.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetPreset.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetPreset.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetPreset.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetPreset.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetPreset.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetUpdater.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetUpdater.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetUpdater.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetUpdater.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetUpdater.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_AssetUpdater.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_Curve.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_Curve.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_Curve.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_Curve.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_Curve.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_Curve.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_GeneratedOutput.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_GeneratedOutput.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_GeneratedOutput.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_GeneratedOutput.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_GeneratedOutput.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_GeneratedOutput.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_GeoNode.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_GeoNode.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_GeoNode.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_GeoNode.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_GeoNode.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_GeoNode.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_HoudiniAsset.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_HoudiniAsset.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_HoudiniAsset.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_HoudiniAsset.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_HoudiniAsset.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_HoudiniAsset.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_HoudiniAssetRoot.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_HoudiniAssetRoot.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_HoudiniAssetRoot.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_HoudiniAssetRoot.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_HoudiniAssetRoot.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_HoudiniAssetRoot.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_InputNode.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_InputNode.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_InputNode.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_InputNode.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_InputNode.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_InputNode.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_ObjectInstanceInfo.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_ObjectInstanceInfo.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_ObjectInstanceInfo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_ObjectInstanceInfo.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_ObjectInstanceInfo.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_ObjectInstanceInfo.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_ObjectNode.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_ObjectNode.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_ObjectNode.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_ObjectNode.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_ObjectNode.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_ObjectNode.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_PartData.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_PartData.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_PartData.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_PartData.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_PartData.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Asset\HEU_PartData.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes\HEU_AttributeData.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes\HEU_AttributeData.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes\HEU_AttributeData.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes\HEU_AttributeData.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes\HEU_AttributeData.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes\HEU_AttributeData.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes\HEU_AttributesStore.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes\HEU_AttributesStore.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes\HEU_AttributesStore.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes\HEU_AttributesStore.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes\HEU_AttributesStore.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Attributes\HEU_AttributesStore.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_AssetDatabase.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_AssetDatabase.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_AssetDatabase.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_AssetDatabase.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_AssetDatabase.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_AssetDatabase.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Defines.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Defines.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Defines.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Defines.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Defines.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Defines.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_HAPIUtility.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_HAPIUtility.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_HAPIUtility.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_HAPIUtility.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_HAPIUtility.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_HAPIUtility.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_HoudiniEngineError.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_HoudiniEngineError.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_HoudiniEngineError.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_HoudiniEngineError.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_HoudiniEngineError.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_HoudiniEngineError.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Platform.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Platform.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Platform.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Platform.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Platform.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_Platform.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PlatformWin.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PlatformWin.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PlatformWin.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PlatformWin.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PlatformWin.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PlatformWin.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PluginSettings.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PluginSettings.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PluginSettings.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PluginSettings.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PluginSettings.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PluginSettings.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PluginStorage.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PluginStorage.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PluginStorage.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PluginStorage.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PluginStorage.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Core\HEU_PluginStorage.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Examples.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptCallbackExample.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptCallbackExample.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptCallbackExample.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptCallbackExample.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptCallbackExample.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptCallbackExample.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptMeshInputUVLayoutExample.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptMeshInputUVLayoutExample.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptMeshInputUVLayoutExample.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptMeshInputUVLayoutExample.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptMeshInputUVLayoutExample.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptMeshInputUVLayoutExample.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptParameterExample.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptParameterExample.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptParameterExample.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptParameterExample.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptParameterExample.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Examples\HEU_ScriptParameterExample.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Handles.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Handles.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Handles.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Handles\HEU_Handle.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Handles\HEU_Handle.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Handles\HEU_Handle.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Handles\HEU_Handle.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Handles\HEU_Handle.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Handles\HEU_Handle.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Handles\HEU_HandleParamBinding.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Handles\HEU_HandleParamBinding.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Handles\HEU_HandleParamBinding.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Handles\HEU_HandleParamBinding.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Handles\HEU_HandleParamBinding.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Handles\HEU_HandleParamBinding.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIData.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIData.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIData.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIData.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIData.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIData.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIImports.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIImports.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIImports.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIImports.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIImports.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIImports.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIImportsPDG.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIImportsPDG.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIImportsPDG.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIImportsPDG.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIImportsPDG.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\HAPI\HEU_HAPIImportsPDG.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HEU_HoudiniVersion.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HEU_HoudiniVersion.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\HEU_HoudiniVersion.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HEU_HoudiniVersion.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\HEU_HoudiniVersion.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\HEU_HoudiniVersion.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterData.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterData.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterData.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterData.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterData.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterData.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterModifier.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterModifier.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterModifier.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterModifier.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterModifier.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterModifier.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_Parameters.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_Parameters.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_Parameters.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_Parameters.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_Parameters.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_Parameters.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterUtility.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterUtility.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterUtility.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterUtility.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterUtility.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Parameters\HEU_ParameterUtility.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\PDG.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGAssetLink.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGAssetLink.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGAssetLink.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGAssetLink.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGAssetLink.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGAssetLink.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGObjects.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGObjects.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGObjects.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGObjects.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGObjects.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGObjects.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGSession.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGSession.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGSession.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGSession.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGSession.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\PDG\HEU_PDGSession.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Render.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_MaterialData.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_MaterialData.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_MaterialData.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_MaterialData.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_MaterialData.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_MaterialData.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_MaterialFactory.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_MaterialFactory.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_MaterialFactory.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_MaterialFactory.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_MaterialFactory.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_MaterialFactory.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_UnityMaterialInfo.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_UnityMaterialInfo.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_UnityMaterialInfo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_UnityMaterialInfo.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_UnityMaterialInfo.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Render\HEU_UnityMaterialInfo.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionBase.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionBase.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionBase.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionBase.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionBase.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionBase.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionData.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionData.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionData.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionData.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionData.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionData.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionHAPI.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionHAPI.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionHAPI.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionHAPI.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionHAPI.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionHAPI.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionManager.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionManager.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionManager.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionManager.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionPDG.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionPDG.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionPDG.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionPDG.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionPDG.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Sessions\HEU_SessionPDG.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_Task.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_Task.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_Task.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_Task.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_Task.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_Task.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_TaskManager.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_TaskManager.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_TaskManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_TaskManager.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_TaskManager.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_TaskManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedLoadBuffers.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedLoadBuffers.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedLoadBuffers.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedLoadBuffers.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedLoadBuffers.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedLoadBuffers.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedTask.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedTask.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedTask.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedTask.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedTask.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedTask.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedTaskLoadGeo.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedTaskLoadGeo.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedTaskLoadGeo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedTaskLoadGeo.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedTaskLoadGeo.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadedTaskLoadGeo.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadManager.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadManager.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadManager.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadManager.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tasks\HEU_ThreadManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tests.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tests.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tests.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tests\HEU_AssetEventReceiverTest.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tests\HEU_AssetEventReceiverTest.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tests\HEU_AssetEventReceiverTest.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tests\HEU_AssetEventReceiverTest.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Tests\HEU_AssetEventReceiverTest.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Tests\HEU_AssetEventReceiverTest.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_EditorUtility.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_EditorUtility.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_EditorUtility.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_EditorUtility.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_EditorUtility.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_EditorUtility.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeneralUtility.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeneralUtility.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeneralUtility.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeneralUtility.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeneralUtility.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeneralUtility.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GenerateGeoCache.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GenerateGeoCache.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GenerateGeoCache.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GenerateGeoCache.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GenerateGeoCache.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GenerateGeoCache.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeoGroup.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeoGroup.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeoGroup.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeoGroup.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeoGroup.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeoGroup.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeometryUtility.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeometryUtility.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeometryUtility.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeometryUtility.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeometryUtility.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeometryUtility.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeoSync.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeoSync.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeoSync.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeoSync.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeoSync.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_GeoSync.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputData.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputData.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputData.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputData.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputData.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputData.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterface.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterface.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterface.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterface.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterface.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterface.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterfaceMesh.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterfaceMesh.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterfaceMesh.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterfaceMesh.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterfaceMesh.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterfaceMesh.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterfaceTerrain.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterfaceTerrain.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterfaceTerrain.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterfaceTerrain.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterfaceTerrain.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputInterfaceTerrain.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputMeshUtility.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputMeshUtility.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputMeshUtility.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputMeshUtility.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputMeshUtility.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputMeshUtility.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputUtility.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputUtility.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputUtility.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputUtility.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputUtility.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_InputUtility.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_MeshData.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_MeshData.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_MeshData.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_MeshData.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_MeshData.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_MeshData.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SerializableDictionary.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SerializableDictionary.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SerializableDictionary.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SerializableDictionary.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SerializableDictionary.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SerializableDictionary.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_ShelfTools.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_ShelfTools.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_ShelfTools.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_ShelfTools.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_ShelfTools.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_ShelfTools.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SimpleJSON.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SimpleJSON.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SimpleJSON.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SimpleJSON.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SimpleJSON.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SimpleJSON.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SimpleJSONUnity.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SimpleJSONUnity.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SimpleJSONUnity.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SimpleJSONUnity.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SimpleJSONUnity.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_SimpleJSONUnity.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_ToolsInfo.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_ToolsInfo.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_ToolsInfo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_ToolsInfo.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_ToolsInfo.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_ToolsInfo.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_VolumeCache.cs
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_VolumeCache.cs
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_VolumeCache.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_VolumeCache.cs.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_VolumeCache.cs.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Scripts\Utility\HEU_VolumeCache.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Shaders.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniAlphaSpecularVertexColor.shader
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniAlphaSpecularVertexColor.shader
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniAlphaSpecularVertexColor.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniAlphaSpecularVertexColor.shader.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniAlphaSpecularVertexColor.shader.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniAlphaSpecularVertexColor.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniLineShader.shader
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniLineShader.shader
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniLineShader.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniLineShader.shader.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniLineShader.shader.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniLineShader.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniSpecularVertexColor.shader
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniSpecularVertexColor.shader
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniSpecularVertexColor.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniSpecularVertexColor.shader.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniSpecularVertexColor.shader.meta
+    projectPath: Assets\Plugins\HoudiniEngineUnity\Shaders\HoudiniSpecularVertexColor.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Assets\StreamingAssets.meta
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Assets\StreamingAssets.meta
+    projectPath: Assets\StreamingAssets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\FMOD.fspro
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\FMOD.fspro
+    projectPath: FMOD_Build\FMOD\FMOD.fspro
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Asset\{06c909b9-6184-42f6-938e-5e94b9d31ca5}.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Asset\{06c909b9-6184-42f6-938e-5e94b9d31ca5}.xml
+    projectPath: FMOD_Build\FMOD\Metadata\Asset\{06c909b9-6184-42f6-938e-5e94b9d31ca5}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Bank\{fd39bef8-9724-43bb-babe-c9b09bd8aadf}.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Bank\{fd39bef8-9724-43bb-babe-c9b09bd8aadf}.xml
+    projectPath: FMOD_Build\FMOD\Metadata\Bank\{fd39bef8-9724-43bb-babe-c9b09bd8aadf}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\BankFolder\{da6141f2-1c76-425d-9088-92134cf9063c}.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\BankFolder\{da6141f2-1c76-425d-9088-92134cf9063c}.xml
+    projectPath: FMOD_Build\FMOD\Metadata\BankFolder\{da6141f2-1c76-425d-9088-92134cf9063c}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\EffectPresetFolder\{6cf6a275-a82f-4849-a586-725bc675c550}.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\EffectPresetFolder\{6cf6a275-a82f-4849-a586-725bc675c550}.xml
+    projectPath: FMOD_Build\FMOD\Metadata\EffectPresetFolder\{6cf6a275-a82f-4849-a586-725bc675c550}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\EncodingSetting\{a261c237-222d-4a3c-8fc0-2628f910371e}.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\EncodingSetting\{a261c237-222d-4a3c-8fc0-2628f910371e}.xml
+    projectPath: FMOD_Build\FMOD\Metadata\EncodingSetting\{a261c237-222d-4a3c-8fc0-2628f910371e}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\EventFolder\{087b5715-2909-4080-881b-a78ca6d48648}.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\EventFolder\{087b5715-2909-4080-881b-a78ca6d48648}.xml
+    projectPath: FMOD_Build\FMOD\Metadata\EventFolder\{087b5715-2909-4080-881b-a78ca6d48648}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Master.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Master.xml
+    projectPath: FMOD_Build\FMOD\Metadata\Master.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Mixer.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Mixer.xml
+    projectPath: FMOD_Build\FMOD\Metadata\Mixer.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\ParameterPresetFolder\{da3a33d2-748d-4e76-908d-8fc66bcf5ff1}.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\ParameterPresetFolder\{da3a33d2-748d-4e76-908d-8fc66bcf5ff1}.xml
+    projectPath: FMOD_Build\FMOD\Metadata\ParameterPresetFolder\{da3a33d2-748d-4e76-908d-8fc66bcf5ff1}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Platform\{5614f039-5412-48aa-95a2-f1f67785eb0e}.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Platform\{5614f039-5412-48aa-95a2-f1f67785eb0e}.xml
+    projectPath: FMOD_Build\FMOD\Metadata\Platform\{5614f039-5412-48aa-95a2-f1f67785eb0e}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\ProfilerFolder\{1a69aa3c-57b4-414c-9172-f85c11ed6f86}.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\ProfilerFolder\{1a69aa3c-57b4-414c-9172-f85c11ed6f86}.xml
+    projectPath: FMOD_Build\FMOD\Metadata\ProfilerFolder\{1a69aa3c-57b4-414c-9172-f85c11ed6f86}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Return\{bc135f85-86e2-4900-abe1-9b6ab0868531}.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Return\{bc135f85-86e2-4900-abe1-9b6ab0868531}.xml
+    projectPath: FMOD_Build\FMOD\Metadata\Return\{bc135f85-86e2-4900-abe1-9b6ab0868531}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\SandboxFolder\{bcb10e9f-fb95-4f7f-ba32-d341c9859574}.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\SandboxFolder\{bcb10e9f-fb95-4f7f-ba32-d341c9859574}.xml
+    projectPath: FMOD_Build\FMOD\Metadata\SandboxFolder\{bcb10e9f-fb95-4f7f-ba32-d341c9859574}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\SnapshotGroup\{1ee8cc2f-93b6-4de5-ade5-0defb55f5ab0}.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\SnapshotGroup\{1ee8cc2f-93b6-4de5-ade5-0defb55f5ab0}.xml
+    projectPath: FMOD_Build\FMOD\Metadata\SnapshotGroup\{1ee8cc2f-93b6-4de5-ade5-0defb55f5ab0}.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Tags.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Tags.xml
+    projectPath: FMOD_Build\FMOD\Metadata\Tags.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Workspace.xml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\FMOD_Build\FMOD\Metadata\Workspace.xml
+    projectPath: FMOD_Build\FMOD\Metadata\Workspace.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ArtifactDB
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\02\02288fe740a3e4fa52e5e2a782e719bf
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\02\02288fe740a3e4fa52e5e2a782e719bf
+    projectPath: Library\Artifacts\02\02288fe740a3e4fa52e5e2a782e719bf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\02\0264a49ae1960b10a49b6cf65a5c6cb3
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\02\0264a49ae1960b10a49b6cf65a5c6cb3
+    projectPath: Library\Artifacts\02\0264a49ae1960b10a49b6cf65a5c6cb3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\02\02bcf4df246b6f8a374a7669e7e5a323
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\02\02bcf4df246b6f8a374a7669e7e5a323
+    projectPath: Library\Artifacts\02\02bcf4df246b6f8a374a7669e7e5a323
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\04\0428f2956cb3e31c273168121f7ba162
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\04\0428f2956cb3e31c273168121f7ba162
+    projectPath: Library\Artifacts\04\0428f2956cb3e31c273168121f7ba162
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\05\053fc6d986a3b50c82dc4b24cf1054d4
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\05\053fc6d986a3b50c82dc4b24cf1054d4
+    projectPath: Library\Artifacts\05\053fc6d986a3b50c82dc4b24cf1054d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\06\06d0fe158926ac75987a73b70d6cc339
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\06\06d0fe158926ac75987a73b70d6cc339
+    projectPath: Library\Artifacts\06\06d0fe158926ac75987a73b70d6cc339
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\06\06d273c818e1b65352396a7fb6410ab2
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\06\06d273c818e1b65352396a7fb6410ab2
+    projectPath: Library\Artifacts\06\06d273c818e1b65352396a7fb6410ab2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\06\06f65a5b5cd03df353ae58cba41296fe
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\06\06f65a5b5cd03df353ae58cba41296fe
+    projectPath: Library\Artifacts\06\06f65a5b5cd03df353ae58cba41296fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\08\08d8562c436b2e96534d8021bdd505f1
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\08\08d8562c436b2e96534d8021bdd505f1
+    projectPath: Library\Artifacts\08\08d8562c436b2e96534d8021bdd505f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\09\0915e7070f22670bfce0ebd7c791a355
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\09\0915e7070f22670bfce0ebd7c791a355
+    projectPath: Library\Artifacts\09\0915e7070f22670bfce0ebd7c791a355
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\09\093a1e90a6c15b9e572bd282c340601c
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\09\093a1e90a6c15b9e572bd282c340601c
+    projectPath: Library\Artifacts\09\093a1e90a6c15b9e572bd282c340601c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\09\09b2debcc3590ca1650fd0e74e56e7da
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\09\09b2debcc3590ca1650fd0e74e56e7da
+    projectPath: Library\Artifacts\09\09b2debcc3590ca1650fd0e74e56e7da
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\09\09b94ca0d7170315d247aacc87bf9a4c
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\09\09b94ca0d7170315d247aacc87bf9a4c
+    projectPath: Library\Artifacts\09\09b94ca0d7170315d247aacc87bf9a4c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\0b\0b7c76d52b0e4798f6427fb8b6dbc9e2
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\0b\0b7c76d52b0e4798f6427fb8b6dbc9e2
+    projectPath: Library\Artifacts\0b\0b7c76d52b0e4798f6427fb8b6dbc9e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\0e\0ebaf7dacce0831344f795c48d32ab2e
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\0e\0ebaf7dacce0831344f795c48d32ab2e
+    projectPath: Library\Artifacts\0e\0ebaf7dacce0831344f795c48d32ab2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\11\119962568b8ba9459a7935c725aeca02
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\11\119962568b8ba9459a7935c725aeca02
+    projectPath: Library\Artifacts\11\119962568b8ba9459a7935c725aeca02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\13\138b761d723f51302bb701b38e429b9b
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\13\138b761d723f51302bb701b38e429b9b
+    projectPath: Library\Artifacts\13\138b761d723f51302bb701b38e429b9b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\13\139de26de2e5e921c9b1672c1e36dab9
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\13\139de26de2e5e921c9b1672c1e36dab9
+    projectPath: Library\Artifacts\13\139de26de2e5e921c9b1672c1e36dab9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\14\147e678dba01b45711fdd9c76f1e17f5
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\14\147e678dba01b45711fdd9c76f1e17f5
+    projectPath: Library\Artifacts\14\147e678dba01b45711fdd9c76f1e17f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\17\172db1d8afb80e82ecc5ba4e72a7dd1c
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\17\172db1d8afb80e82ecc5ba4e72a7dd1c
+    projectPath: Library\Artifacts\17\172db1d8afb80e82ecc5ba4e72a7dd1c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\18\18fb5e902f84ec29c1fc504a769e70a3
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\18\18fb5e902f84ec29c1fc504a769e70a3
+    projectPath: Library\Artifacts\18\18fb5e902f84ec29c1fc504a769e70a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\19\19f4d4d42bcb586fcde2abf57f6be2ac
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\19\19f4d4d42bcb586fcde2abf57f6be2ac
+    projectPath: Library\Artifacts\19\19f4d4d42bcb586fcde2abf57f6be2ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\22\22c80b0f6c178c77b532a79d3572611d
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\22\22c80b0f6c178c77b532a79d3572611d
+    projectPath: Library\Artifacts\22\22c80b0f6c178c77b532a79d3572611d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\23\237b922914b6ae7d238c581ac23a4613
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\23\237b922914b6ae7d238c581ac23a4613
+    projectPath: Library\Artifacts\23\237b922914b6ae7d238c581ac23a4613
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\24\24d4ce955bf7a77e4f35556fed7e3de3
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\24\24d4ce955bf7a77e4f35556fed7e3de3
+    projectPath: Library\Artifacts\24\24d4ce955bf7a77e4f35556fed7e3de3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\26\267b01b0222b4ea87ef379d747072ee2
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\26\267b01b0222b4ea87ef379d747072ee2
+    projectPath: Library\Artifacts\26\267b01b0222b4ea87ef379d747072ee2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\28\28d66d2ce6131daab35bf2938b16f4f3
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\28\28d66d2ce6131daab35bf2938b16f4f3
+    projectPath: Library\Artifacts\28\28d66d2ce6131daab35bf2938b16f4f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\29\29ef7081b777b8bf54f4796361773d28
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\29\29ef7081b777b8bf54f4796361773d28
+    projectPath: Library\Artifacts\29\29ef7081b777b8bf54f4796361773d28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\2b\2b0c80944c880ff4c1ba136e4d979fb1
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\2b\2b0c80944c880ff4c1ba136e4d979fb1
+    projectPath: Library\Artifacts\2b\2b0c80944c880ff4c1ba136e4d979fb1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\2d\2d537bd850edd2f7ab6ba7bb20b557e0
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\2d\2d537bd850edd2f7ab6ba7bb20b557e0
+    projectPath: Library\Artifacts\2d\2d537bd850edd2f7ab6ba7bb20b557e0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\2e\2ef47142b43fa2381082b213189b9b24
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\2e\2ef47142b43fa2381082b213189b9b24
+    projectPath: Library\Artifacts\2e\2ef47142b43fa2381082b213189b9b24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\30\307a51dc9a2785c19f80877de668aece
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\30\307a51dc9a2785c19f80877de668aece
+    projectPath: Library\Artifacts\30\307a51dc9a2785c19f80877de668aece
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\31\31887f6faa2203ea888affc2801659e0
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\31\31887f6faa2203ea888affc2801659e0
+    projectPath: Library\Artifacts\31\31887f6faa2203ea888affc2801659e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\31\31d3d836032bc2beb8f379d13c1af487
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\31\31d3d836032bc2beb8f379d13c1af487
+    projectPath: Library\Artifacts\31\31d3d836032bc2beb8f379d13c1af487
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\33\33915253ab00cab260be2c9bd9616354
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\33\33915253ab00cab260be2c9bd9616354
+    projectPath: Library\Artifacts\33\33915253ab00cab260be2c9bd9616354
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\35\35d74b2513c7d2db147222a9b2f398fa
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\35\35d74b2513c7d2db147222a9b2f398fa
+    projectPath: Library\Artifacts\35\35d74b2513c7d2db147222a9b2f398fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\36\367ea209e92df6e16b033118ead4340b
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\36\367ea209e92df6e16b033118ead4340b
+    projectPath: Library\Artifacts\36\367ea209e92df6e16b033118ead4340b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\36\36a7796cb14053ca753635c3502f4049
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\36\36a7796cb14053ca753635c3502f4049
+    projectPath: Library\Artifacts\36\36a7796cb14053ca753635c3502f4049
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\36\36de1670a3a4ebf491f288d1036f0cd3
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\36\36de1670a3a4ebf491f288d1036f0cd3
+    projectPath: Library\Artifacts\36\36de1670a3a4ebf491f288d1036f0cd3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\38\3839f4d4957a5b6e0dd5596543b5a6fb
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\38\3839f4d4957a5b6e0dd5596543b5a6fb
+    projectPath: Library\Artifacts\38\3839f4d4957a5b6e0dd5596543b5a6fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\39\39641d279bae74e6f8163b8fe3ed1951
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\39\39641d279bae74e6f8163b8fe3ed1951
+    projectPath: Library\Artifacts\39\39641d279bae74e6f8163b8fe3ed1951
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\3c\3c988df590172748df14e139ce30f2f9
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\3c\3c988df590172748df14e139ce30f2f9
+    projectPath: Library\Artifacts\3c\3c988df590172748df14e139ce30f2f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\3c\3cec85bbdfe8033748c8450c8055ab00
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\3c\3cec85bbdfe8033748c8450c8055ab00
+    projectPath: Library\Artifacts\3c\3cec85bbdfe8033748c8450c8055ab00
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\40\40bd00ef0dbcbc7dcd60a79923cb4342
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\40\40bd00ef0dbcbc7dcd60a79923cb4342
+    projectPath: Library\Artifacts\40\40bd00ef0dbcbc7dcd60a79923cb4342
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\42\42a07ceb38d829ff8b1389cdd1a0b092
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\42\42a07ceb38d829ff8b1389cdd1a0b092
+    projectPath: Library\Artifacts\42\42a07ceb38d829ff8b1389cdd1a0b092
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\42\42cc031ab3eee6c5e3d87d978ecdae94
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\42\42cc031ab3eee6c5e3d87d978ecdae94
+    projectPath: Library\Artifacts\42\42cc031ab3eee6c5e3d87d978ecdae94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\47\4723cfabef4b1787d6f8226db2175875
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\47\4723cfabef4b1787d6f8226db2175875
+    projectPath: Library\Artifacts\47\4723cfabef4b1787d6f8226db2175875
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\47\47779d613e8293302d42ab43036204e8
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\47\47779d613e8293302d42ab43036204e8
+    projectPath: Library\Artifacts\47\47779d613e8293302d42ab43036204e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\4c\4c2ba04d622775ed438e940993bdd3de
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\4c\4c2ba04d622775ed438e940993bdd3de
+    projectPath: Library\Artifacts\4c\4c2ba04d622775ed438e940993bdd3de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\4e\4e40656ee8a72238a91182d7cffe5c56
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\4e\4e40656ee8a72238a91182d7cffe5c56
+    projectPath: Library\Artifacts\4e\4e40656ee8a72238a91182d7cffe5c56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\50\508cd6a835fe399cf9ca1be1a4648e1f
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\50\508cd6a835fe399cf9ca1be1a4648e1f
+    projectPath: Library\Artifacts\50\508cd6a835fe399cf9ca1be1a4648e1f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\54\54119bf3cf54af8f156646dcf38a1376
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\54\54119bf3cf54af8f156646dcf38a1376
+    projectPath: Library\Artifacts\54\54119bf3cf54af8f156646dcf38a1376
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\54\54218b1cd68138d733cd859938864dcb
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\54\54218b1cd68138d733cd859938864dcb
+    projectPath: Library\Artifacts\54\54218b1cd68138d733cd859938864dcb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\58\580cabde7054a8324b863a8b409ddcf5
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\58\580cabde7054a8324b863a8b409ddcf5
+    projectPath: Library\Artifacts\58\580cabde7054a8324b863a8b409ddcf5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\5b\5b87afb55a2942a26cdd7c7cbb3b0a81
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\5b\5b87afb55a2942a26cdd7c7cbb3b0a81
+    projectPath: Library\Artifacts\5b\5b87afb55a2942a26cdd7c7cbb3b0a81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\5e\5e32cc5caa5d1357e7708c322db48d98
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\5e\5e32cc5caa5d1357e7708c322db48d98
+    projectPath: Library\Artifacts\5e\5e32cc5caa5d1357e7708c322db48d98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\5f\5f35272cbe2c0464bb42e699aebe20da
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\5f\5f35272cbe2c0464bb42e699aebe20da
+    projectPath: Library\Artifacts\5f\5f35272cbe2c0464bb42e699aebe20da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\60\60c2d86e7239e854e3d2a3d28aaeb94e
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\60\60c2d86e7239e854e3d2a3d28aaeb94e
+    projectPath: Library\Artifacts\60\60c2d86e7239e854e3d2a3d28aaeb94e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\66\665ea0635c96ef1359bdb38432200eac
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\66\665ea0635c96ef1359bdb38432200eac
+    projectPath: Library\Artifacts\66\665ea0635c96ef1359bdb38432200eac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\68\68c148ea212730b27591c855dd982c64
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\68\68c148ea212730b27591c855dd982c64
+    projectPath: Library\Artifacts\68\68c148ea212730b27591c855dd982c64
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\69\692d7e717537e1041d66ae26991e4928
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\69\692d7e717537e1041d66ae26991e4928
+    projectPath: Library\Artifacts\69\692d7e717537e1041d66ae26991e4928
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\6b\6b318bae5a2d8737d55e46367ea42c19
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\6b\6b318bae5a2d8737d55e46367ea42c19
+    projectPath: Library\Artifacts\6b\6b318bae5a2d8737d55e46367ea42c19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\6c\6c07c852fddeb783388384e912236473
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\6c\6c07c852fddeb783388384e912236473
+    projectPath: Library\Artifacts\6c\6c07c852fddeb783388384e912236473
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\6c\6cde7446491faaea9377fda0fe6c79d3
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\6c\6cde7446491faaea9377fda0fe6c79d3
+    projectPath: Library\Artifacts\6c\6cde7446491faaea9377fda0fe6c79d3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\6d\6d51accd1560e6035c7da8cf6f19d17d
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\6d\6d51accd1560e6035c7da8cf6f19d17d
+    projectPath: Library\Artifacts\6d\6d51accd1560e6035c7da8cf6f19d17d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\71\71688b028dfbd2d6ac47808e5044df85
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\71\71688b028dfbd2d6ac47808e5044df85
+    projectPath: Library\Artifacts\71\71688b028dfbd2d6ac47808e5044df85
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\73\73fb24a640f48bf10e94f4643a5f3343
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\73\73fb24a640f48bf10e94f4643a5f3343
+    projectPath: Library\Artifacts\73\73fb24a640f48bf10e94f4643a5f3343
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\76\7620661df6a3953e95f71743958aba81
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\76\7620661df6a3953e95f71743958aba81
+    projectPath: Library\Artifacts\76\7620661df6a3953e95f71743958aba81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\77\776eb49af6f9b45e8303afeded28f66c
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\77\776eb49af6f9b45e8303afeded28f66c
+    projectPath: Library\Artifacts\77\776eb49af6f9b45e8303afeded28f66c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\77\77b599f0329265a0afc7aa4134eda97b
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\77\77b599f0329265a0afc7aa4134eda97b
+    projectPath: Library\Artifacts\77\77b599f0329265a0afc7aa4134eda97b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\77\77c7c604a3b8c7c876be7ce281ac668a
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\77\77c7c604a3b8c7c876be7ce281ac668a
+    projectPath: Library\Artifacts\77\77c7c604a3b8c7c876be7ce281ac668a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\78\78544beb1f6075bd188d6bae1e00516c
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\78\78544beb1f6075bd188d6bae1e00516c
+    projectPath: Library\Artifacts\78\78544beb1f6075bd188d6bae1e00516c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\79\793c14f11fc62434b7a35c0f857a2947
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\79\793c14f11fc62434b7a35c0f857a2947
+    projectPath: Library\Artifacts\79\793c14f11fc62434b7a35c0f857a2947
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\79\79500269b3ed9e34f2e3747843d58827
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\79\79500269b3ed9e34f2e3747843d58827
+    projectPath: Library\Artifacts\79\79500269b3ed9e34f2e3747843d58827
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\79\7972a3125143d74d6ca810cc801c3339
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\79\7972a3125143d74d6ca810cc801c3339
+    projectPath: Library\Artifacts\79\7972a3125143d74d6ca810cc801c3339
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\7b\7be9dab72b219adc219cd9c96803cab0
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\7b\7be9dab72b219adc219cd9c96803cab0
+    projectPath: Library\Artifacts\7b\7be9dab72b219adc219cd9c96803cab0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\7e\7e8ba1cf43b7cb230463e9e7129e396a
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\7e\7e8ba1cf43b7cb230463e9e7129e396a
+    projectPath: Library\Artifacts\7e\7e8ba1cf43b7cb230463e9e7129e396a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\80\80ad77b1a6505b2fae56f463d1726aba
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\80\80ad77b1a6505b2fae56f463d1726aba
+    projectPath: Library\Artifacts\80\80ad77b1a6505b2fae56f463d1726aba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\81\81fd557224240eb3088932aa468cef0d
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\81\81fd557224240eb3088932aa468cef0d
+    projectPath: Library\Artifacts\81\81fd557224240eb3088932aa468cef0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\82\8255f607a379b739c45205e1f33d25f3
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\82\8255f607a379b739c45205e1f33d25f3
+    projectPath: Library\Artifacts\82\8255f607a379b739c45205e1f33d25f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\83\83a465fd37e2d03db846d76cc672564f
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\83\83a465fd37e2d03db846d76cc672564f
+    projectPath: Library\Artifacts\83\83a465fd37e2d03db846d76cc672564f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\84\849648417f71efe47c21e6902211f986
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\84\849648417f71efe47c21e6902211f986
+    projectPath: Library\Artifacts\84\849648417f71efe47c21e6902211f986
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\86\861149d0a3bf991773e41b8d0605a478
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\86\861149d0a3bf991773e41b8d0605a478
+    projectPath: Library\Artifacts\86\861149d0a3bf991773e41b8d0605a478
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\86\869b3a318c553260f37844e6aee441dc
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\86\869b3a318c553260f37844e6aee441dc
+    projectPath: Library\Artifacts\86\869b3a318c553260f37844e6aee441dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\87\87be0196b41bcbb6ee4b44d52aa31f41
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\87\87be0196b41bcbb6ee4b44d52aa31f41
+    projectPath: Library\Artifacts\87\87be0196b41bcbb6ee4b44d52aa31f41
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\88\883f9b78bddd14d335c32ccd5b5f1551
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\88\883f9b78bddd14d335c32ccd5b5f1551
+    projectPath: Library\Artifacts\88\883f9b78bddd14d335c32ccd5b5f1551
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\88\88560bc940c74abcde6289f902e955f8
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\88\88560bc940c74abcde6289f902e955f8
+    projectPath: Library\Artifacts\88\88560bc940c74abcde6289f902e955f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\8c\8c87bd3755c0934e4d8ef512d0b64771
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\8c\8c87bd3755c0934e4d8ef512d0b64771
+    projectPath: Library\Artifacts\8c\8c87bd3755c0934e4d8ef512d0b64771
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\8d\8d199f097672f1713807e14d5e2311f1
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\8d\8d199f097672f1713807e14d5e2311f1
+    projectPath: Library\Artifacts\8d\8d199f097672f1713807e14d5e2311f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\8e\8efa08e7465f02592986d5f0613925ea
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\8e\8efa08e7465f02592986d5f0613925ea
+    projectPath: Library\Artifacts\8e\8efa08e7465f02592986d5f0613925ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\91\9160709658b5f09ab313e1194ae2d983
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\91\9160709658b5f09ab313e1194ae2d983
+    projectPath: Library\Artifacts\91\9160709658b5f09ab313e1194ae2d983
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\94\944e9aee04d5fe9a097f21ae15f5eaa5
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\94\944e9aee04d5fe9a097f21ae15f5eaa5
+    projectPath: Library\Artifacts\94\944e9aee04d5fe9a097f21ae15f5eaa5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\96\96eb8f0d0e1d80d5a245baa116e7ef1b
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\96\96eb8f0d0e1d80d5a245baa116e7ef1b
+    projectPath: Library\Artifacts\96\96eb8f0d0e1d80d5a245baa116e7ef1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\97\97e4998ef7e765b90339d0f0322254dd
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\97\97e4998ef7e765b90339d0f0322254dd
+    projectPath: Library\Artifacts\97\97e4998ef7e765b90339d0f0322254dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\98\98e0a85b8537fce8924ed058bdd9653c
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\98\98e0a85b8537fce8924ed058bdd9653c
+    projectPath: Library\Artifacts\98\98e0a85b8537fce8924ed058bdd9653c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\9a\9a19ecfbf475a83b743b98ced3151868
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\9a\9a19ecfbf475a83b743b98ced3151868
+    projectPath: Library\Artifacts\9a\9a19ecfbf475a83b743b98ced3151868
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\9b\9b9e60381c2e814d32bcf70d344434d9
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\9b\9b9e60381c2e814d32bcf70d344434d9
+    projectPath: Library\Artifacts\9b\9b9e60381c2e814d32bcf70d344434d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\9c\9c6bb3457dc593890191671de2956233
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\9c\9c6bb3457dc593890191671de2956233
+    projectPath: Library\Artifacts\9c\9c6bb3457dc593890191671de2956233
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\9d\9d2fe2a78b55b5fd562a1f3736668a1e
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\9d\9d2fe2a78b55b5fd562a1f3736668a1e
+    projectPath: Library\Artifacts\9d\9d2fe2a78b55b5fd562a1f3736668a1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\9d\9dff000d27e4cb0a0071bde41c836845
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\9d\9dff000d27e4cb0a0071bde41c836845
+    projectPath: Library\Artifacts\9d\9dff000d27e4cb0a0071bde41c836845
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\9f\9f0ece51e00da542fee8d2be4d665302
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\9f\9f0ece51e00da542fee8d2be4d665302
+    projectPath: Library\Artifacts\9f\9f0ece51e00da542fee8d2be4d665302
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\a0\a0270ea1a1c48dea9fc5eacb041a5161
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\a0\a0270ea1a1c48dea9fc5eacb041a5161
+    projectPath: Library\Artifacts\a0\a0270ea1a1c48dea9fc5eacb041a5161
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\a0\a05b3251702939f203504b393204303b
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\a0\a05b3251702939f203504b393204303b
+    projectPath: Library\Artifacts\a0\a05b3251702939f203504b393204303b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\a3\a38a616dfa333513ecf2adfe8bddb2b7
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\a3\a38a616dfa333513ecf2adfe8bddb2b7
+    projectPath: Library\Artifacts\a3\a38a616dfa333513ecf2adfe8bddb2b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\a3\a3d8c114613993a12958c14f6865d681
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\a3\a3d8c114613993a12958c14f6865d681
+    projectPath: Library\Artifacts\a3\a3d8c114613993a12958c14f6865d681
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\a6\a668cbb015555b5d0c945e356472314c
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\a6\a668cbb015555b5d0c945e356472314c
+    projectPath: Library\Artifacts\a6\a668cbb015555b5d0c945e356472314c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\a7\a7d0023a8080f23351cb207d23b1ee02
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\a7\a7d0023a8080f23351cb207d23b1ee02
+    projectPath: Library\Artifacts\a7\a7d0023a8080f23351cb207d23b1ee02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\a8\a87102580a115be27724edf1e34194ee
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\a8\a87102580a115be27724edf1e34194ee
+    projectPath: Library\Artifacts\a8\a87102580a115be27724edf1e34194ee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\a9\a966e3cb59308b320521170692c5c469
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\a9\a966e3cb59308b320521170692c5c469
+    projectPath: Library\Artifacts\a9\a966e3cb59308b320521170692c5c469
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\a9\a9cb609d29164622f9fef2b0e5c15840
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\a9\a9cb609d29164622f9fef2b0e5c15840
+    projectPath: Library\Artifacts\a9\a9cb609d29164622f9fef2b0e5c15840
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\ab\ab790f5ed720896b75853effdd991f6e
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\ab\ab790f5ed720896b75853effdd991f6e
+    projectPath: Library\Artifacts\ab\ab790f5ed720896b75853effdd991f6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\af\af6c445480f363303f9279af80e0cb87
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\af\af6c445480f363303f9279af80e0cb87
+    projectPath: Library\Artifacts\af\af6c445480f363303f9279af80e0cb87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\b0\b0b96b7cccc26cb31b5facceb295e30b
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\b0\b0b96b7cccc26cb31b5facceb295e30b
+    projectPath: Library\Artifacts\b0\b0b96b7cccc26cb31b5facceb295e30b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\b3\b3bed7524f9c2239016576b519212953
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\b3\b3bed7524f9c2239016576b519212953
+    projectPath: Library\Artifacts\b3\b3bed7524f9c2239016576b519212953
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\b3\b3c10ef5715e3af04531f9d74fb98809
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\b3\b3c10ef5715e3af04531f9d74fb98809
+    projectPath: Library\Artifacts\b3\b3c10ef5715e3af04531f9d74fb98809
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\b4\b427cfeef1cf68b92291b62bd27929b4
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\b4\b427cfeef1cf68b92291b62bd27929b4
+    projectPath: Library\Artifacts\b4\b427cfeef1cf68b92291b62bd27929b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\b4\b44d645ae5e26f5f01ec41ab55467837
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\b4\b44d645ae5e26f5f01ec41ab55467837
+    projectPath: Library\Artifacts\b4\b44d645ae5e26f5f01ec41ab55467837
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\b7\b73529c1c13a3197aea22aef2d73408e
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\b7\b73529c1c13a3197aea22aef2d73408e
+    projectPath: Library\Artifacts\b7\b73529c1c13a3197aea22aef2d73408e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\b8\b807d8507821bf3416403802622f1b66
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\b8\b807d8507821bf3416403802622f1b66
+    projectPath: Library\Artifacts\b8\b807d8507821bf3416403802622f1b66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\ba\bae7c49858a224e69169e3e51915d33c
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\ba\bae7c49858a224e69169e3e51915d33c
+    projectPath: Library\Artifacts\ba\bae7c49858a224e69169e3e51915d33c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\bc\bc16614742bf511e9b667273384016d5
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\bc\bc16614742bf511e9b667273384016d5
+    projectPath: Library\Artifacts\bc\bc16614742bf511e9b667273384016d5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\c1\c1d466c493f76648737e6dd6c8a8184a
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\c1\c1d466c493f76648737e6dd6c8a8184a
+    projectPath: Library\Artifacts\c1\c1d466c493f76648737e6dd6c8a8184a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\c4\c41db238a07aee0a848a7bcb26c43746
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\c4\c41db238a07aee0a848a7bcb26c43746
+    projectPath: Library\Artifacts\c4\c41db238a07aee0a848a7bcb26c43746
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\c8\c89bd490e5c5c12c682eb07a8862fc8a
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\c8\c89bd490e5c5c12c682eb07a8862fc8a
+    projectPath: Library\Artifacts\c8\c89bd490e5c5c12c682eb07a8862fc8a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\cb\cb3f02d8588b446064ea875842bcb3e8
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\cb\cb3f02d8588b446064ea875842bcb3e8
+    projectPath: Library\Artifacts\cb\cb3f02d8588b446064ea875842bcb3e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\cb\cb65f6aebd90341fb5c9ea58904a0a64
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\cb\cb65f6aebd90341fb5c9ea58904a0a64
+    projectPath: Library\Artifacts\cb\cb65f6aebd90341fb5c9ea58904a0a64
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\d7\d7905918881078eeff0ea9115646ffae
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\d7\d7905918881078eeff0ea9115646ffae
+    projectPath: Library\Artifacts\d7\d7905918881078eeff0ea9115646ffae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\d7\d7f6bc9d8a833c9ea2590d3548aaaa5f
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\d7\d7f6bc9d8a833c9ea2590d3548aaaa5f
+    projectPath: Library\Artifacts\d7\d7f6bc9d8a833c9ea2590d3548aaaa5f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\d9\d9847f769e794a782f984ef51a1c3184
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\d9\d9847f769e794a782f984ef51a1c3184
+    projectPath: Library\Artifacts\d9\d9847f769e794a782f984ef51a1c3184
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\dd\dd4c3326aaafc8b7be4a3c79693a5e5c
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\dd\dd4c3326aaafc8b7be4a3c79693a5e5c
+    projectPath: Library\Artifacts\dd\dd4c3326aaafc8b7be4a3c79693a5e5c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\dd\dd81f12ccfef52917c71636e9ebb6efd
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\dd\dd81f12ccfef52917c71636e9ebb6efd
+    projectPath: Library\Artifacts\dd\dd81f12ccfef52917c71636e9ebb6efd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\e4\e439d6cb643d3d0e6312a4f1c1df4afe
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\e4\e439d6cb643d3d0e6312a4f1c1df4afe
+    projectPath: Library\Artifacts\e4\e439d6cb643d3d0e6312a4f1c1df4afe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\e6\e6b8fdefde0e3c69e8db230a1d9d6408
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\e6\e6b8fdefde0e3c69e8db230a1d9d6408
+    projectPath: Library\Artifacts\e6\e6b8fdefde0e3c69e8db230a1d9d6408
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\e9\e91dd09ec8ac43e2ffe438c27c407a7d
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\e9\e91dd09ec8ac43e2ffe438c27c407a7d
+    projectPath: Library\Artifacts\e9\e91dd09ec8ac43e2ffe438c27c407a7d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\e9\e978fc91e3f27f6d47a79205d4403417
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\e9\e978fc91e3f27f6d47a79205d4403417
+    projectPath: Library\Artifacts\e9\e978fc91e3f27f6d47a79205d4403417
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\ea\ea8a40dcb1069f78648897e470803f06
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\ea\ea8a40dcb1069f78648897e470803f06
+    projectPath: Library\Artifacts\ea\ea8a40dcb1069f78648897e470803f06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\eb\eb09e988c4c677980ca5b65018d3a3ee
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\eb\eb09e988c4c677980ca5b65018d3a3ee
+    projectPath: Library\Artifacts\eb\eb09e988c4c677980ca5b65018d3a3ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\eb\eb39c23a07d281c3236569ccb8151e73
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\eb\eb39c23a07d281c3236569ccb8151e73
+    projectPath: Library\Artifacts\eb\eb39c23a07d281c3236569ccb8151e73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\ee\ee101103f576cbd40fc76a7d50d907f9
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\ee\ee101103f576cbd40fc76a7d50d907f9
+    projectPath: Library\Artifacts\ee\ee101103f576cbd40fc76a7d50d907f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\ee\eedd0bd1269da4b91b08e0d6f4d9fe54
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\ee\eedd0bd1269da4b91b08e0d6f4d9fe54
+    projectPath: Library\Artifacts\ee\eedd0bd1269da4b91b08e0d6f4d9fe54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\f0\f0891d36fd9ebc1fe5f95173d498520a
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\f0\f0891d36fd9ebc1fe5f95173d498520a
+    projectPath: Library\Artifacts\f0\f0891d36fd9ebc1fe5f95173d498520a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\f0\f0c9b21d2be34aa4b04d06a1ff8bd60a
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\f0\f0c9b21d2be34aa4b04d06a1ff8bd60a
+    projectPath: Library\Artifacts\f0\f0c9b21d2be34aa4b04d06a1ff8bd60a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\f2\f21856121514b6f723ea5daa82c5de23
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\f2\f21856121514b6f723ea5daa82c5de23
+    projectPath: Library\Artifacts\f2\f21856121514b6f723ea5daa82c5de23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\f2\f250f1b6e57f260739821af0aaa75463
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\f2\f250f1b6e57f260739821af0aaa75463
+    projectPath: Library\Artifacts\f2\f250f1b6e57f260739821af0aaa75463
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\f2\f27f892e36c4a6ebcde62bd83ebce823
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\f2\f27f892e36c4a6ebcde62bd83ebce823
+    projectPath: Library\Artifacts\f2\f27f892e36c4a6ebcde62bd83ebce823
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\f3\f38954591ea8959c4d2de9771e6fbc2f
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\f3\f38954591ea8959c4d2de9771e6fbc2f
+    projectPath: Library\Artifacts\f3\f38954591ea8959c4d2de9771e6fbc2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\f5\f53f16a32b3ad788e50ccf18be131eda
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\f5\f53f16a32b3ad788e50ccf18be131eda
+    projectPath: Library\Artifacts\f5\f53f16a32b3ad788e50ccf18be131eda
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\f7\f7adf1d9049f7b6e145a525ae8db2749
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\f7\f7adf1d9049f7b6e145a525ae8db2749
+    projectPath: Library\Artifacts\f7\f7adf1d9049f7b6e145a525ae8db2749
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\fa\fa9e40da6a133d4b08f77e0e4a5f430e
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\fa\fa9e40da6a133d4b08f77e0e4a5f430e
+    projectPath: Library\Artifacts\fa\fa9e40da6a133d4b08f77e0e4a5f430e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\Artifacts\fb\fb11e2fe73f43ce597b2b7035ba9e9bb
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\Artifacts\fb\fb11e2fe73f43ce597b2b7035ba9e9bb
+    projectPath: Library\Artifacts\fb\fb11e2fe73f43ce597b2b7035ba9e9bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\CurrentLayout-default.dwlt
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Library\EditorInstance.json
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\expandedItems
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Library\gfu\cache\branches.yaml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Library\ScriptMapper
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\0\0331afbae9d110ba218cadbf83463802.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\0\0331afbae9d110ba218cadbf83463802.bin
+    projectPath: Library\ShaderCache\0\0331afbae9d110ba218cadbf83463802.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\0\0499d3f85986c987402e039b56ba0323.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\0\0499d3f85986c987402e039b56ba0323.bin
+    projectPath: Library\ShaderCache\0\0499d3f85986c987402e039b56ba0323.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\0\08bec289619be8bd394bd36da754993e.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\0\08bec289619be8bd394bd36da754993e.bin
+    projectPath: Library\ShaderCache\0\08bec289619be8bd394bd36da754993e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\0\0c69493ccf471085fc452dae16c8bfd8.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\0\0c69493ccf471085fc452dae16c8bfd8.bin
+    projectPath: Library\ShaderCache\0\0c69493ccf471085fc452dae16c8bfd8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\1\15a74f4b599bd0e1eae7ba45baeb2793.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\1\15a74f4b599bd0e1eae7ba45baeb2793.bin
+    projectPath: Library\ShaderCache\1\15a74f4b599bd0e1eae7ba45baeb2793.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\1\1ce84464869026c1b2ae54b063b21c04.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\1\1ce84464869026c1b2ae54b063b21c04.bin
+    projectPath: Library\ShaderCache\1\1ce84464869026c1b2ae54b063b21c04.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\2\21a8c738c304279aa86a4f8b40639cad.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\2\21a8c738c304279aa86a4f8b40639cad.bin
+    projectPath: Library\ShaderCache\2\21a8c738c304279aa86a4f8b40639cad.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\2\230977415b34ea0dbec371c4d9ec903e.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\2\230977415b34ea0dbec371c4d9ec903e.bin
+    projectPath: Library\ShaderCache\2\230977415b34ea0dbec371c4d9ec903e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\2\2735340ad52005c522680e247172c2f8.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\2\2735340ad52005c522680e247172c2f8.bin
+    projectPath: Library\ShaderCache\2\2735340ad52005c522680e247172c2f8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\2\2a800f46956e505a85ca5b6d6a7f7264.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\2\2a800f46956e505a85ca5b6d6a7f7264.bin
+    projectPath: Library\ShaderCache\2\2a800f46956e505a85ca5b6d6a7f7264.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\2\2c5bff542fc4ce1952556a27d9f0b8ce.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\2\2c5bff542fc4ce1952556a27d9f0b8ce.bin
+    projectPath: Library\ShaderCache\2\2c5bff542fc4ce1952556a27d9f0b8ce.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\2\2e0c2548d535f5f32509de0dc85a8688.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\2\2e0c2548d535f5f32509de0dc85a8688.bin
+    projectPath: Library\ShaderCache\2\2e0c2548d535f5f32509de0dc85a8688.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\3\32f0605467f5fdebda4bc128cd185396.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\3\32f0605467f5fdebda4bc128cd185396.bin
+    projectPath: Library\ShaderCache\3\32f0605467f5fdebda4bc128cd185396.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\4\4b0166a8190f7ace916fbc992ae97def.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\4\4b0166a8190f7ace916fbc992ae97def.bin
+    projectPath: Library\ShaderCache\4\4b0166a8190f7ace916fbc992ae97def.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\5\50af7bed0eeaacf89a30ea651e63a6ac.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\5\50af7bed0eeaacf89a30ea651e63a6ac.bin
+    projectPath: Library\ShaderCache\5\50af7bed0eeaacf89a30ea651e63a6ac.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\6\69384873936f5557ab7431f9228e7cf9.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\6\69384873936f5557ab7431f9228e7cf9.bin
+    projectPath: Library\ShaderCache\6\69384873936f5557ab7431f9228e7cf9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\6\6d2739efdb6c05969191988b09ebc9b1.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\6\6d2739efdb6c05969191988b09ebc9b1.bin
+    projectPath: Library\ShaderCache\6\6d2739efdb6c05969191988b09ebc9b1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\7\7218448fbe55e6bb603d4a6adf5503d0.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\7\7218448fbe55e6bb603d4a6adf5503d0.bin
+    projectPath: Library\ShaderCache\7\7218448fbe55e6bb603d4a6adf5503d0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\7\72ce31e1dfac0547f93906332cab9757.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\7\72ce31e1dfac0547f93906332cab9757.bin
+    projectPath: Library\ShaderCache\7\72ce31e1dfac0547f93906332cab9757.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\7\72e23557344c49a02b16315abcd6d877.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\7\72e23557344c49a02b16315abcd6d877.bin
+    projectPath: Library\ShaderCache\7\72e23557344c49a02b16315abcd6d877.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\7\736ed2b796eae55fa0224acaaffb8654.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\7\736ed2b796eae55fa0224acaaffb8654.bin
+    projectPath: Library\ShaderCache\7\736ed2b796eae55fa0224acaaffb8654.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\7\7c3436dab37141fc29d56f1d57b594d3.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\7\7c3436dab37141fc29d56f1d57b594d3.bin
+    projectPath: Library\ShaderCache\7\7c3436dab37141fc29d56f1d57b594d3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\8\8d644bdca7e70f5fa1a6e58c3aa6a68e.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\8\8d644bdca7e70f5fa1a6e58c3aa6a68e.bin
+    projectPath: Library\ShaderCache\8\8d644bdca7e70f5fa1a6e58c3aa6a68e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\9\9358384a2480b5192ef96b22dda72129.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\9\9358384a2480b5192ef96b22dda72129.bin
+    projectPath: Library\ShaderCache\9\9358384a2480b5192ef96b22dda72129.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\9\9493065d35056ba2b96491e7f0df58bd.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\9\9493065d35056ba2b96491e7f0df58bd.bin
+    projectPath: Library\ShaderCache\9\9493065d35056ba2b96491e7f0df58bd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\9\9764148a96cfccb41bffd9c874c8b4f8.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\9\9764148a96cfccb41bffd9c874c8b4f8.bin
+    projectPath: Library\ShaderCache\9\9764148a96cfccb41bffd9c874c8b4f8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\9\99232276239ce9cd56cb33dfe41f20ec.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\9\99232276239ce9cd56cb33dfe41f20ec.bin
+    projectPath: Library\ShaderCache\9\99232276239ce9cd56cb33dfe41f20ec.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\9\9ba1a9a998bc899476d97362262ad5c5.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\9\9ba1a9a998bc899476d97362262ad5c5.bin
+    projectPath: Library\ShaderCache\9\9ba1a9a998bc899476d97362262ad5c5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\9\9fdfc164d3f3eb96e4a77cc816a2dcbd.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\9\9fdfc164d3f3eb96e4a77cc816a2dcbd.bin
+    projectPath: Library\ShaderCache\9\9fdfc164d3f3eb96e4a77cc816a2dcbd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\a\a7ea55db149573f7dd5d80235d15402e.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\a\a7ea55db149573f7dd5d80235d15402e.bin
+    projectPath: Library\ShaderCache\a\a7ea55db149573f7dd5d80235d15402e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\a\affdd459f6d12414d9f80b29898689a6.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\a\affdd459f6d12414d9f80b29898689a6.bin
+    projectPath: Library\ShaderCache\a\affdd459f6d12414d9f80b29898689a6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\b\b47ba6ea349997bac186e6744e9dbd4a.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\b\b47ba6ea349997bac186e6744e9dbd4a.bin
+    projectPath: Library\ShaderCache\b\b47ba6ea349997bac186e6744e9dbd4a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\b\b5bb7308e37e1acded3f7e540776da03.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\b\b5bb7308e37e1acded3f7e540776da03.bin
+    projectPath: Library\ShaderCache\b\b5bb7308e37e1acded3f7e540776da03.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\b\b675152867d2af4bdcd543f396896721.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\b\b675152867d2af4bdcd543f396896721.bin
+    projectPath: Library\ShaderCache\b\b675152867d2af4bdcd543f396896721.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\b\b980d1fcf557c30e1005f332eb1ada01.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\b\b980d1fcf557c30e1005f332eb1ada01.bin
+    projectPath: Library\ShaderCache\b\b980d1fcf557c30e1005f332eb1ada01.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\b\bf79737ba0cd7910cdc05934e40830a5.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\b\bf79737ba0cd7910cdc05934e40830a5.bin
+    projectPath: Library\ShaderCache\b\bf79737ba0cd7910cdc05934e40830a5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\c\c1c4dbc93afeaef62d672c1b5f595aea.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\c\c1c4dbc93afeaef62d672c1b5f595aea.bin
+    projectPath: Library\ShaderCache\c\c1c4dbc93afeaef62d672c1b5f595aea.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\c\c9878e4be958c156497765e9b24f96bb.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\c\c9878e4be958c156497765e9b24f96bb.bin
+    projectPath: Library\ShaderCache\c\c9878e4be958c156497765e9b24f96bb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\c\cbf96f9b411c349bedce3a1ae63b0f46.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\c\cbf96f9b411c349bedce3a1ae63b0f46.bin
+    projectPath: Library\ShaderCache\c\cbf96f9b411c349bedce3a1ae63b0f46.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\d\db0052457ee65d8f4bbfd17bab06c887.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\d\db0052457ee65d8f4bbfd17bab06c887.bin
+    projectPath: Library\ShaderCache\d\db0052457ee65d8f4bbfd17bab06c887.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\e\e7d3215dd8c0344b77676899f6ff337c.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\e\e7d3215dd8c0344b77676899f6ff337c.bin
+    projectPath: Library\ShaderCache\e\e7d3215dd8c0344b77676899f6ff337c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\e\ee08fb9d919228c1ec5420af0fc29131.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\e\ee08fb9d919228c1ec5420af0fc29131.bin
+    projectPath: Library\ShaderCache\e\ee08fb9d919228c1ec5420af0fc29131.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\f\f1c95e37283ee19b3879498951809da3.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\f\f1c95e37283ee19b3879498951809da3.bin
+    projectPath: Library\ShaderCache\f\f1c95e37283ee19b3879498951809da3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\f\f82aa542b1c6a40d18d2501a2ba5a6d9.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\f\f82aa542b1c6a40d18d2501a2ba5a6d9.bin
+    projectPath: Library\ShaderCache\f\f82aa542b1c6a40d18d2501a2ba5a6d9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\f\fa0f63717a427c16bb39eca285f5322e.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\f\fa0f63717a427c16bb39eca285f5322e.bin
+    projectPath: Library\ShaderCache\f\fa0f63717a427c16bb39eca285f5322e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\ShaderCache\f\fbb1b12f3c2fdf113e0a7f75443a33be.bin
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\ShaderCache\f\fbb1b12f3c2fdf113e0a7f75443a33be.bin
+    projectPath: Library\ShaderCache\f\fbb1b12f3c2fdf113e0a7f75443a33be.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectFiles\5kingdoms\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Library\SourceAssetDB
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectFiles\5kingdoms\Temp\UnityLockfile
+    fullPath: E:\FiveKingdomsGame\ProjectFiles\5kingdoms\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
