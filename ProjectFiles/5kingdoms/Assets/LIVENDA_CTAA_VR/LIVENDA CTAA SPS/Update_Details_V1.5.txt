@@ -1,0 +1,7 @@
+CTAA V1.5 UPDATE CHANGES and FIXES
+
+- Overall performance and Quality enhancement for PC and VR
+- NEW Single Pass Stereo VR Support with Single Camera
+- NEW Single Pass Version is Unified as a single drag-drop script for all VR platforms (Oculus SDK and OpenVR)
+- Fixed Oculus SDK issue with incorrect View Matrix with Unity 2018 (This only effected the Multi-Pass version)
+- Significant Quallity improvement for both Oculus and the VIVE for Multipass and Single Pass (New in this version)
